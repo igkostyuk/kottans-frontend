@@ -1,33 +1,33 @@
 ##### General Basics
 
--[x] [Git Basics](tasks/git-intro.md)
+- [x] [Git Basics](tasks/git-intro.md)
 
--[x] [Linux CLI and Networking](tasks/linux-cli-http.md)
+- [x] [Linux CLI and Networking](tasks/linux-cli-http.md)
 
--[x] [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+- [x] [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
 
 ##### Front-End Basics
 
--[ ] [Intro to HTML & CSS](tasks/html-css-intro.md)
+- [ ] [Intro to HTML & CSS](tasks/html-css-intro.md)
 
--[ ] [Responsive Web Design](tasks/html-css-responsive.md)
+- [ ] [Responsive Web Design](tasks/html-css-responsive.md)
 
--[ ] [JavaScript Basics](tasks/js-basics.md)
+- [ ] [JavaScript Basics](tasks/js-basics.md)
 
--[ ] [Document Object Model](tasks/js-dom.md) - practice
+- [ ] [Document Object Model](tasks/js-dom.md) - practice
 
 ##### Advanced Topics
 
--[ ] [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md)
+- [ ] [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md)
  
--[ ] [Object oriented JS](tasks/js-oop.md)
+- [ ] [Object oriented JS](tasks/js-oop.md)
 
--[ ] [OOP exercise](tasks/js-post-oop.md)
+- [ ] [OOP exercise](tasks/js-post-oop.md)
  
--[ ] [Offline Web Applications](tasks/app-design-offline.md)
+- [ ] [Offline Web Applications](tasks/app-design-offline.md)
 
--[ ] [Memory pair game](tasks/memory-pair-game.md)
+- [ ] [Memory pair game](tasks/memory-pair-game.md)
  
--[ ] [Website Performance Optimization](tasks/app-design-performance.md)
+- [ ] [Website Performance Optimization](tasks/app-design-performance.md)
 
--[ ] [Friends App](tasks/friends-app.md)
+- [ ] [Friends App](tasks/friends-app.md)
