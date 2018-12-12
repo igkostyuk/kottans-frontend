@@ -1,3 +1,3 @@
 ##### General Basics
 
-![Image of git-intro](ScreenShotHowtouseGitandGitHub.png)
+![Image of git-intro](screenshot/HowtouseGitandGitHub.png)

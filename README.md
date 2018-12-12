@@ -8,9 +8,9 @@
 
 ##### Front-End Basics
 
-- [ ] [Intro to HTML & CSS](tasks/html-css-intro.md)
+- [x] [Intro to HTML & CSS](tasks/html-css-intro.md)
 
-- [ ] [Responsive Web Design](tasks/html-css-responsive.md)
+- [x] [Responsive Web Design](tasks/html-css-responsive.md)
 
 - [ ] [JavaScript Basics](tasks/js-basics.md)
 
