@@ -12,9 +12,9 @@
 
 - [x] [Responsive Web Design](tasks/html-css-responsive.md)
 
-- [ ] [JavaScript Basics](tasks/js-basics.md)
+- [X] [JavaScript Basics](tasks/js-basics.md)
 
-- [ ] [Document Object Model](tasks/js-dom.md) - practice
+- [X] [Document Object Model](tasks/js-dom.md) - practice
 
 ##### Advanced Topics
 
