@@ -14,20 +14,25 @@
 
 - [X] [JavaScript Basics](tasks/js-basics.md)
 
-- [X] [Document Object Model](tasks/js-dom.md) - practice
+- [X] [Document Object Model](tasks/js-dom.md)  
+Reviewed and approved by @<mentor>AMashoshyna
+  [Demo](https://igkostyuk.github.io/js-dom/) | [Code base](https://github.com/igkostyuk/js-dom) 
+
 
 ##### Advanced Topics
 
-- [ ] [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md)
+- [x] [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md)   
+ Reviewed and approved by @<mentor>OleksiyRudenko
+  [Demo](https://igkostyuk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/igkostyuk/a-tiny-JS-world) 
  
 - [ ] [Object oriented JS](tasks/js-oop.md)
 
-- [ ] [OOP exercise](tasks/js-post-oop.md)
+- [ ] OOP exercise
  
-- [ ] [Offline Web Applications](tasks/app-design-offline.md)
+- [ ] Offline Web Applications
 
-- [ ] [Memory pair game](tasks/memory-pair-game.md)
+- [ ] Memory pair game
  
-- [ ] [Website Performance Optimization](tasks/app-design-performance.md)
+- [ ] Website Performance Optimization
 
-- [ ] [Friends App](tasks/friends-app.md)
+- [ ] Friends App
