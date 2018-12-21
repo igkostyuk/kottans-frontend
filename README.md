@@ -26,8 +26,7 @@ Reviewed and approved by @<mentor>AMashoshyna
   [Demo](https://igkostyuk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/igkostyuk/a-tiny-JS-world) 
  
 - [x] [Object oriented JS](tasks/js-oop.md)  
-Reviewed and approved by @<mentor>OleksiyRudenko  
-[Demo](https://igkostyuk.github.io/frontend-nanodegree-arcade-game-master/) | [Code base](https://github.com/igkostyuk/frontend-nanodegree-arcade-game-master/tree/gh-pages/js)
+Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.github.io/frontend-nanodegree-arcade-game-master/) | [Code base](https://github.com/igkostyuk/frontend-nanodegree-arcade-game-master/tree/gh-pages/js)
 
 - [ ] OOP exercise
  
