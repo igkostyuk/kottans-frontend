@@ -21,18 +21,20 @@ Reviewed and approved by @<mentor>AMashoshyna
 
 ##### Advanced Topics
 
-- [x] [Building a Tiny JS World (pre-OOP)](tasks/js-pre-oop.md)   
+- [x] Building a Tiny JS World (pre-OOP)  
  Reviewed and approved by @<mentor>OleksiyRudenko
   [Demo](https://igkostyuk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/igkostyuk/a-tiny-JS-world) 
  
 - [x] [Object oriented JS](tasks/js-oop.md)  
 Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.github.io/frontend-nanodegree-arcade-game-master/) | [Code base](https://github.com/igkostyuk/frontend-nanodegree-arcade-game-master/tree/gh-pages/js)
 
-- [ ] OOP exercise
- 
+- [x] OOP exercise   
+Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/igkostyuk/a-tiny-JS-world/tree/gh-pages) 
 - [ ] Offline Web Applications
 
-- [ ] Memory pair game
+- [x] Memory pair game    
+Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/Memory-Pair-Game/) |
+[Code base](https://github.com/igkostyuk/Memory-Pair-Game)
  
 - [ ] Website Performance Optimization
 
