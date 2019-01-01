@@ -38,4 +38,6 @@ Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/M
  
 - [ ] Website Performance Optimization
 
-- [ ] Friends App
+- [x] Friends App     
+Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/friends-2/) |
+[Code base](https://github.com/igkostyuk/friends-2/tree/gh-pages)
