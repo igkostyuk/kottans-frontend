@@ -30,7 +30,7 @@ Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.githu
 
 - [x] OOP exercise   
 Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.github.io/a-tiny-JS-world/) | [Code base](https://github.com/igkostyuk/a-tiny-JS-world/tree/gh-pages) 
-- [x] [Offline Web Applications](app-design-offline.md)
+- [x] [Offline Web Applications](tasks/app-design-offline.md)
 
 - [x] Memory pair game    
 Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/Memory-Pair-Game/) |
