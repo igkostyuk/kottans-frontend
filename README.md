@@ -36,7 +36,7 @@ Reviewed and approved by @<mentor>OleksiyRudenko  [Demo](https://igkostyuk.githu
 Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/Memory-Pair-Game/) |
 [Code base](https://github.com/igkostyuk/Memory-Pair-Game)
  
-- [ ] Website Performance Optimization
+- [x] [Website Performance Optimization](tasks/app-design-offline.md)
 
 - [x] Friends App     
 Reviewed and approved by @<mentor>zonzujiro [Demo](https://igkostyuk.github.io/friends-2/) |
